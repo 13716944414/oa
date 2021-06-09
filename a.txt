@@ -7,3 +7,4 @@ dev update file 01
 dev update file 02
 github update 01
 local update 01
+github update 02
